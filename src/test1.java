@@ -1,2 +1,2 @@
 first test
-version .o1
+version .01
